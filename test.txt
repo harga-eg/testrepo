@@ -1,3 +1,4 @@
 initial line
 Second line
 second line added locally
+first line in newmaster branch
